@@ -6,7 +6,7 @@ Pillow==8.1.0
 protobuf==3.7.1
 pymongo==3.7.2
 selenium==3.141.0
-urllib3==1.25.2
+urllib3==1.26.5
 chromedriver-autoinstaller==0.2.0
 dnspython==1.16.0
 requests~=2.19.1
